@@ -33,10 +33,23 @@ Funcionan en el navegador (ordenador, tablet o móvil), sin instalar nada ni reg
 
 ---
 
+### Simulador Tiro parabólico · 1.º Bachillerato (Física)
+[Abrir simulador](https://ivanpb26.github.io/Simuladores-educativos/tiro-parabolico/)
+
+- Movimiento compuesto: MRU (eje X) + MRUA (eje Y)
+- Cuatro tipos de tiro: completo, horizontal, suelo → altura y altura → altura
+- Vectores V, Vx, Vy y g; gráficas y(t), vx(t) y vy(t); trayectoria teórica y tiros anteriores
+- Rozamiento con el aire opcional; gravedad de la Tierra, Marte, la Luna o personalizada
+- Modos Libre, Predice y lanza, y Reto; marcador guardado en el navegador
+- Teoría: ecuaciones, los cuatro tipos con ejemplos resueltos, resultados clave, rozamiento y errores frecuentes
+
+---
+
 ## Estructura
 
 - `index.html` — portada con todos los simuladores
 - `numeros-cuanticos/` — simulador de números cuánticos
+- `tiro-parabolico/` — simulador de tiro parabólico
 
 Cada simulador nuevo va en su propia carpeta.
 
